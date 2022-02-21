@@ -1,6 +1,6 @@
 \NeedsTeXFormat{LaTeX2e}
 \ProvidesClass{resume}[2015/05/25 An elegant Résumé class]
-\LoadClass[10pt]{article}
+\LoadClass[11pt]{article}
 
 % disable indent globally
 \setlength{\parindent}{0pt}
@@ -21,10 +21,10 @@
 
 \RequirePackage[
 	a4paper,
-	left=0.60in,
-	right=0.60in,
-	top=0.60in,
-	bottom=0.60in,
+	left=0.50in,
+	right=0.50in,
+	top=0.50in,
+	bottom=0.50in,
 	nohead
 ]{geometry}
 
